@@ -1,0 +1,2 @@
+# amaran_HA
+这是一个homeassistant集成，可以帮你把爱图仕及艾蒙拉旗下的摄影灯光连接到homeassistant
