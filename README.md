@@ -10,7 +10,7 @@
 4. 确保Home Assistant与Amaran设备在同一网络中
 
 ## 安装集成
-1. 将`amaran`文件夹复制到Home Assistant的`custom_components`目录下
+1. 将`amaran_HA`文件夹复制到Home Assistant的`custom_components`目录下
    - 通常路径为：`config/custom_components/amaran`
 2. 重启Home Assistant
 
