@@ -1,0 +1,9 @@
+{
+  "domain": "amaran",
+  "name": "Amaran Lights",
+  "version": "1.0.0",
+  "requirements": ["websockets>=10.0", "cryptography>=37.0.0"],
+  "dependencies": [],
+  "codeowners": ["@your_name"],
+  "config_flow": true
+}
